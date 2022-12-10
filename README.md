@@ -1,2 +1,2 @@
-# model_prediksi_stroke_STING
-Program Model Machine Learning berjudul Prediksi Stroke Domain Data Science
+# prediksi-stroke-raihan
+ PA kelompok 3 batch 3
